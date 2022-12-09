@@ -1,0 +1,52 @@
+#route {
+    -fx-stroke: hsb(0, 100%, 100%, 0.6);
+    -fx-stroke-line-join: round;
+    -fx-stroke-width: 4;
+}
+
+#highlight {
+    -fx-fill: white;
+    -fx-stroke: red;
+    -fx-stroke-width: 2;
+}
+
+.pin {
+    -fx-opacity: 0.9;
+}
+
+.pin:hover {
+    -fx-opacity: 1.0;
+}
+
+
+.pin.last .boule {
+    -fx-fill: hsb(0, 100%, 80%);
+}
+
+.ligne {
+    -fx-stroke: rgb(0, 0, 0, 0.7);
+    -fx-stroke-width: 3;
+}
+
+.pin:hover .boule_Unresolved {
+    -fx-stroke-width: 2;
+    -fx-stroke: rgb(0, 0, 0, 0.5);
+}
+
+.pin:hover .boule_Resolved {
+    -fx-stroke-width: 3;
+    -fx-stroke: hsb(200, 100%, 50%, 0.6);
+}
+
+.pin:hover .ligne {
+    -fx-stroke-width: 4;
+    -fx-stroke: rgb(0, 0, 0, 1);
+}
+
+.boule_Unresolved {
+
+}
+
+.boule_Resolved {
+    -fx-fill: hsb(200, 100%, 85%);
+}
