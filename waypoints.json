@@ -1,0 +1,113 @@
+[ {
+  "position" : {
+    "e" : 2532876.110010216,
+    "n" : 1152418.6268419507
+  },
+  "issue" : {
+    "title" : "the door is broken",
+    "description" : "The door is broken so cold air comes into the building",
+    "author" : 1,
+    "id" : 0,
+    "location" : "MX110",
+    "date" : "2022-12-04",
+    "status" : "RESOLVED",
+    "upVotes" : 2,
+    "empty" : false
+  }
+}, {
+  "position" : {
+    "e" : 2532910.641612921,
+    "n" : 1152463.3816590616
+  },
+  "issue" : {
+    "title" : "Selecta's light is on all night",
+    "description" : "The selecta's light is on all night, this isn't really good energetically",
+    "author" : 1,
+    "id" : 1,
+    "location" : "CO021",
+    "date" : "2022-12-04",
+    "status" : "UNRESOLVED",
+    "upVotes" : 9,
+    "empty" : false
+  }
+}, {
+  "position" : {
+    "e" : 2532883.68974904,
+    "n" : 1152556.6980378975
+  },
+  "issue" : {
+    "title" : "many TVs on ",
+    "description" : "So many TVs are on all the time!! This is really bad!!",
+    "author" : 1,
+    "id" : 2,
+    "location" : "SG hall",
+    "date" : "2022-12-04",
+    "status" : "UNRESOLVED",
+    "upVotes" : 12,
+    "empty" : false
+  }
+}, {
+  "position" : {
+    "e" : 2533140.8064983906,
+    "n" : 1152454.5245760744
+  },
+  "issue" : {
+    "title" : "",
+    "description" : "",
+    "author" : 0,
+    "id" : 3,
+    "location" : "",
+    "date" : "2022-12-07",
+    "status" : "UNRESOLVED",
+    "upVotes" : 0,
+    "empty" : true
+  }
+}, {
+  "position" : {
+    "e" : 2533169.8229805743,
+    "n" : 1152398.3918650032
+  },
+  "issue" : {
+    "title" : "",
+    "description" : "",
+    "author" : 0,
+    "id" : 4,
+    "location" : "",
+    "date" : "2022-12-07",
+    "status" : "UNRESOLVED",
+    "upVotes" : 0,
+    "empty" : true
+  }
+}, {
+  "position" : {
+    "e" : 2532545.1814719313,
+    "n" : 1151910.4434587967
+  },
+  "issue" : {
+    "title" : "",
+    "description" : "",
+    "author" : 0,
+    "id" : 5,
+    "location" : "",
+    "date" : "2022-12-07",
+    "status" : "UNRESOLVED",
+    "upVotes" : 0,
+    "empty" : true
+  }
+}, {
+  "position" : {
+    "e" : 2532896.8658818016,
+    "n" : 1152286.52854042
+  },
+  "issue" : {
+    "title" : "",
+    "description" : "",
+    "author" : 0,
+    "id" : 6,
+    "location" : "",
+    "date" : "2022-12-07",
+    "status" : "UNRESOLVED",
+    "upVotes" : 0,
+    "empty" : true
+  }
+} ]
